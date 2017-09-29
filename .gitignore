@@ -1,2 +1,3 @@
 # Ignore my beauty editor
 .idea
+*.gem
