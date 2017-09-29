@@ -1,6 +1,6 @@
 Gem::Specification.new do |gem|
   gem.name        = 'rails_routes_drawer'
-  gem.version     = '0.1.0'
+  gem.version     = '0.1.1'
   gem.date        = '2016-10-27'
   gem.summary     = 'Rails routes drwaer'
   gem.description = 'A simple way to split your routes in multiple files'
