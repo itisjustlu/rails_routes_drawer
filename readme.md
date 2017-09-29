@@ -9,12 +9,6 @@ gem 'rails_routes_drawer'
 ```
 
 ### How to use it?
-Require this file in an initializer
-``` 
-# config/initializers/rails_routes_drawer.rb
-require 'rails_routes_drawer'
-```
-
 Create a simple file under **config/routes/my_appended_routes.rb**
 
 ```
